@@ -10,7 +10,7 @@ Python Toolbox
 .. |Docs Status| image:: https://readthedocs.org/projects/elritsch-python-toolbox/badge/?version=latest
    :target: http://elritsch-python-toolbox.readthedocs.io/en/latest/?badge=latest
 
-A collection of handy Python tools that provide commonly
+A collection of handy Python tools (WIP)
 
 
 Source
