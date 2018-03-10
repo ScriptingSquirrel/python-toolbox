@@ -4,6 +4,7 @@ python:
   - "3.6"
 install:
   - make install
+  - make install-test-dependencies
 script:
   - make test
   - make lint
